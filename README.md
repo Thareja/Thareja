@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Thareja
+- 👋 Hi, I’m Dhiraj Thareja @Thareja
 - 👀 I’m interested in Data Science, AI, Software Development, Cloud Transformation, & Marketing
 - 🌱 I’m currently learning all about blockchain & crypto
 - 💞️ I’m looking to collaborate on AI
