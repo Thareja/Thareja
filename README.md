@@ -2,7 +2,7 @@
 - 👀 I’m interested / consult in Data Science, AI, Software Development, Cloud Transformation, & Marketing
 - 🌱 I’m currently learning all about Financial Trading in Python, blockchain & crypto
 - 💞️ I’m looking to collaborate on Data Science, AI & ML project
-- I am doing my MBA @ Hult International Business School.
+-  MBA @ Hult International Business School.
 - 📫 How to reach me: twitter -  @dthareja 
 
 <!---
