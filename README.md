@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Data Science, AI & ML project
 -  MBA @ Hult International Business School.
 - 📫 How to reach me: twitter -  @dthareja 
+- Building https://www.Thareja.ai
 
 <!---
 Thareja/Thareja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
